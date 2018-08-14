@@ -1,12 +1,11 @@
 # Momentum
 
-Requirements:
-Print greeting image from a file.
-Print name from a file.
-Print current date and time formatted as "MM/DD/YY - HH:MM[A|P]M"
-Print image from a random file from a given directory.
-Print text from a random line from a given file.
-
+## Requirements:
+- Print greeting image from a file.
+- Print name from a file.
+- Print current date and time formatted as "MM/DD/YY - HH:MM[A|P]M"
+- Print image from a random file from a given directory.
+- Print text from a random line from a given file.
 
 ```
 Graces-MacBook-Pro:Momentum grace$ ./a.out 
